@@ -5072,8 +5072,8 @@ p {
 	font-size: 0.9375rem;
 	line-height: 2;
 	text-align: justify;
-	-moz-text-align-last: left;
-	text-align-last: left;
+/*	-moz-text-align-last: left;*/
+/*	text-align-last: left;*/
 }
 
 @media (max-width: 1200px) {
@@ -5909,8 +5909,8 @@ img {
 	font-size: 0.9375rem;
 	line-height: 2;
 	text-align: justify;
-	-moz-text-align-last: left;
-	text-align-last: left;
+/*	-moz-text-align-last: left;*/
+/*	text-align-last: left;*/
 }
 
 @media (max-width: 1200px) {
