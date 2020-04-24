@@ -5908,7 +5908,8 @@ img {
 	color: #666;
 	font-size: 0.9375rem;
 	line-height: 2;
-	text-align: justify;
+/*	text-align: justify;*/
+	text-align: left;
 /*	-moz-text-align-last: left;*/
 	-moz-text-align-last: unset;
 /*	text-align-last: left;*/
